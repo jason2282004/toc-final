@@ -27,11 +27,11 @@ toc-final/
 │   ├── config.py           # Configuration & secrets loader
 │   ├── services.py         # Backend logic (LLM, APIs, error handling)
 │   └── utils.py            # Helper functions (HTML generation, regex)
-│
+│   └── .streamlit/
+        └── secrets.toml        # API key
 ├── requirements.txt        # Python dependency list
-├── README.md               # Project documentation
-└── .streamlit/
-    └── secrets.toml        # API key
+└── README.md               # Project documentation
+
 ```
 
 ---
