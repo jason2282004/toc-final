@@ -31,7 +31,7 @@ toc-final/
 ├── requirements.txt        # Python dependency list
 ├── README.md               # Project documentation
 └── .streamlit/
-    └── secrets.toml        # API keys (local only, DO NOT commit)
+    └── secrets.toml        # API key
 ```
 
 ---
